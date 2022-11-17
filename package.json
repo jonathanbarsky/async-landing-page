@@ -1,0 +1,23 @@
+{
+  "name": "async-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanbarsky/async-landing-page.git"
+  },
+  "keywords": [],
+  "author": "Jonatham Barsky <barskyjonathan96@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathanbarsky/async-landing-page/issues"
+  },
+  "homepage": "https://github.com/jonathanbarsky/async-landing-page#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
